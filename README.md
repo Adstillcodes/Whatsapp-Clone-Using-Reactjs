@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Follow these simple steps to have your own whatsapp clone
 
 #### 1: Clone this repo using this command 
-`git clone https://github.com/alii13/whatsapp-clone.git`
+`git clone https://github.com/Anvit3/Whatsapp-Clone-Using-Reactjs`
 
 #### 2: Enter 
 `cd whatsapp-clone`
